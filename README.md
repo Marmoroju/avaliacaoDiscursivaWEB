@@ -12,4 +12,5 @@ no diretório "C:\xampp\htdocs" dentro da pasta "html_" que está compactada.
 Ficou faltando realizar a atividade "i" para buscar o produto mais barato, porém a pagina e sua interação estão completas.
 ---
 Neste arquivo "Av_Discursiva_WEB.7zip" estão contidas as imagens de cada tela do banco de dados e páginas web.
+---
 
